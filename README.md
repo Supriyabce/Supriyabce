@@ -22,6 +22,7 @@ I love to combine my passion for learning new technologies with my full-stack de
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🏸 I love to play Badminton, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Drop a mail: <a href="supriyarani30399@gmail.com">supriyarani30399@gmail.com</a>
+- 🌍 I'm mostly active on <a href="https://www.linkedin.com/in/supriya-rani-b0b956189/">LinkedIn</a>
 
 <!-- __Check out my GitHub repository:__
 
