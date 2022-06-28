@@ -22,7 +22,6 @@ I love to combine my passion for learning new technologies with my full-stack de
 - 📫 Drop a mail: <a href="supriyarani30399@gmail.com">supriyarani30399@gmail.com</a>
 - 🌍 I'm mostly active on <a href="https://www.linkedin.com/in/supriya-rani-b0b956189/">LinkedIn</a>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
