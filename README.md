@@ -1,34 +1,27 @@
-Hii, there 👋
-I am a 4th year UG student of Computer Science and Engineering at Bakhtiyarpur College Of Engineering.
-I like problem solving and learning new technologies.
-I love to combine my passion for learning new technologies with my full-stack developer skills to continue building useful projects.
--💻 SKILLS: JavaScript | HTML|CSS | Bootstrap | ReactJs | MongoDB | Express | Node
--I am an intermediate developer skilled in Full Stack Development, Javascript and its frameworks❄️.
-📫 Drop a mail:Supriyarani30399@gmail.com
+
 <!---
 Supriyabce/Supriyabce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there 👋, Bhargavi here. 
+# Hi there 👋, Supriya here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am a 4th year UG student of Computer Science and Engineering at Bakhtiyarpur College Of Engineering.
+I like problem solving and learning new technologies.
+I love to combine my passion for learning new technologies with my full-stack developer skills to continue building useful projects.
+* **I am interested in Web designing**
+- 💻 SKILLS: JavaScript | HTML|CSS | Bootstrap | ReactJs | MongoDB | Express | Node
 - 🌱 I’m currently learning ...
-  - Java
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- Outside tech, 🏸 I love to play Badminton, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="supriyarani30399@gmail.com">supriyarani30399@gmail.com</a>
 
 __Check out my GitHub repository:__
 
