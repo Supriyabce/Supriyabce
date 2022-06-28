@@ -21,7 +21,7 @@ I love to combine my passion for learning new technologies with my full-stack de
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🏸 I love to play Badminton, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="supriyarani30399@gmail.com">supriyarani30399@gmail.com</a>
+- 📫 Drop a mail: <a href="supriyarani30399@gmail.com">supriyarani30399@gmail.com</a>
 
 <!-- __Check out my GitHub repository:__
 
