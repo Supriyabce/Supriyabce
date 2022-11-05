@@ -13,7 +13,7 @@ I am a 4th year UG student of Computer Science and Engineering at Bakhtiyarpur C
 I like problem solving and learning new technologies.
 I love to combine my passion for learning new technologies with my full-stack developer skills to continue building useful projects.
 * **I am interested in Web designing**
-- 💻 SKILLS: JavaScript | HTML|CSS | Bootstrap | ReactJs | MongoDB | Express | Node
+- 💻 SKILLS: JavaScript | HTML|CSS | Bootstrap | ReactJs | MySql
 - 🌱 I’m currently learning ...
   - React js
 - 👯 I’m looking forward to collaborate on open source projects.
