@@ -3,8 +3,7 @@
 Supriyabce/Supriyabce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there 👋, 
-#Supriya Rani here. 
+# Hi there 👋, Supriya Rani here. 
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
