@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About Me***
 
-I'm a dedicated Full-Stack Developer with over 7 months of hands-on experience in the MERN stack—MongoDB, Express.js, React, and Node.js. I completed my Bachelor's in Computer Science from Bakhtiyarpur College of Engineering, Patna. My passion for web development drives me to create seamless and dynamic web applications that offer exceptional user experiences.
+I'm a dedicated Full-Stack Developer with over 7+ months of hands-on experience in the MERN stack—MongoDB, Express.js, React, and Node.js. I completed my Bachelor's in Computer Science from Bakhtiyarpur College of Engineering, Patna. My passion for web development drives me to create seamless and dynamic web applications that offer exceptional user experiences.
 
 ### 🌟 My Journey:
 - **Versatile Skill Set**: Proficient in both front-end and back-end technologies, I can handle projects from conception to deployment seamlessly.
