@@ -25,7 +25,7 @@ I'm a dedicated Full-Stack Developer with over 7+ months of hands-on experience 
 - **Languages**: Hindi (Native), English (Professional)
 
 ### 🌱 I’m currently learning:
-- Material-UI
+- Tailwind Css 
 
 ### 🤝 Let’s Connect:
 - 💼 LinkedIn: [Supriya Rani](https://www.linkedin.com/in/supriyabce)
